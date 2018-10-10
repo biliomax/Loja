@@ -6,4 +6,4 @@
  * Time: 10:59
  */
 
-Echo "Comecando a minha Loja em PHP";
+echo "Comecando a minha Loja em PHP";
