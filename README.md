@@ -1,2 +1,2 @@
 # Loja
-Mini Loja em PHP
+Mini Loja em PHP.
